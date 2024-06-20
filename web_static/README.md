@@ -13,6 +13,7 @@ Now that you have a command interpreter for managing your AirBnB objects, it’s
 
 ## Resources
 1. [Learn to Code HTML & CSS (until “Creating Lists” included)](https://learn.shayhowe.com/html-css/)
+2. [Inline Styles in HTML](https://www.codecademy.com/article/html-inline-styles)
 
 ## Summary
 Example:
